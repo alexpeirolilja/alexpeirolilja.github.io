@@ -21,12 +21,11 @@ From defection to return to Fort Worth
 
 [token 7](/Tacotron2_prosody_variation_samples/From_defection_to_return_to_Forth_Worth_62000steps_softmax_8tokens_1head_7_014.wav)
 
-
 Palmer speedly found imitators
 
-[token 6](/Tacotron2_prosody_variation_samples/Palmer_speedly_found_imitators_62000steps_softmax_8tokens_1head_6_014.wav)
+[token 5](/Tacotron2_prosody_variation_samples/Palmer_speedly_found_imitators_62000steps_softmax_8tokens_1head_5_014.wav)
 
-[token 7](/Tacotron2_prosody_variation_samples/Palmer_speedly_found_imitators_62000steps_softmax_8tokens_1head_7_014.wav)
+[token 6](/Tacotron2_prosody_variation_samples/Palmer_speedly_found_imitators_62000steps_softmax_8tokens_1head_6_014.wav)
 
 The latter too was to be laid before the House of Commons
 
