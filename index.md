@@ -1,6 +1,6 @@
-## Pitch Band Sparse Log-Mel Representation for Unsupervised Style Tokens Learning in End-to-End Text-to-Speech
+<!---Pitch Band Sparse Log-Mel Representation for Unsupervised Style Tokens Learning in End-to-End Text-to-Speech -->
 
-### Generated samples
+## Generated samples
 
 There were others less successful
 
