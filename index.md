@@ -1,8 +1,16 @@
-## Deep Learning in Speech Synthesis
+## Pitch Band Sparse Log-Mel Representation for Unsupervised Style Tokens Learning in End-to-End Text-to-Speech
 
-Currently, statistical parametric speech synthesis (SPSS) has achieved near-human quality speech thanks to the latest end-to-end text-to-speech (E2E-TTS) architectures.
-
-My research is focused on the naturalness of the synthetic speech.
+With the latest end-to-end text-to-speech systems, speech synthesis has achieved near-human
+quality. However, the problem of falling into speaker monotonicity in synthesis is still present.
+Recent works on the field are focused on encoding prosody variability from human samples to
+adapt the synthetic speech style. The presented work builds upon an unsupervised learning bank
+of speaker style embeddings, called global style tokens. However, while these were trained using
+the whole log-mel spectrogram representation, we test only with a sparse representation of logmel
+pitch contour, in which tokens can also learn a variety of prosodic configurations based on the
+premise that pitch band already has the concise information to model speaker style. Our results
+show that: (1) there is significant difference in many prosody attributes between tokens, and that
+(2) all tokens present an acceptable level of quality, intelligibility and naturalness according to
+human perception tests.
 
 ### Learning Unsupervised Style Tokens Using Human Pitch Sparse Log-Mel Band in End-to-End Text-to-Speech
 
